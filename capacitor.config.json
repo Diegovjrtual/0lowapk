@@ -1,0 +1,6 @@
+{
+  "appId": "com.olow.connect",
+  "appName": "0low Connect",
+  "webDir": "www",
+  "server": { "androidScheme": "https" }
+}
